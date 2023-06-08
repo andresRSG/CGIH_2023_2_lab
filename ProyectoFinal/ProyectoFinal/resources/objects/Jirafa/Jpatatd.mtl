@@ -1,0 +1,22 @@
+# Blender 3.5.0 MTL File: 'jirafa.blend'
+# www.blender.org
+
+newmtl mat_0-Giraffe_D.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Giraffe_D.jpg
+
+newmtl mat_1-default-grey.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd default-grey.jpg
