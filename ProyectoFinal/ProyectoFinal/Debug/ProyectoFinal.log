@@ -1,0 +1,24 @@
+﻿  FinalF.cpp
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(466,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(479,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(491,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(502,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(513,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(524,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(537,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(550,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(567,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(602,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1880,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1881,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1885,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1886,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1888,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1889,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\ProyectoFinal\FinalF.cpp(1897,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> C:\Users\Guillermo.Rodriguez\Documents\Mios\redes\ProyectoFinal\Debug\ProyectoFinal.exe
